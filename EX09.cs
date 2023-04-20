@@ -1,4 +1,6 @@
-﻿void Insere(char[] p, ref int t, char f)
+//9) Escreva um programa para conhecer uma frase e exibi-la com as PALAVRAS invertidas. Por exemplo, a frase “Jose da Silva” deve sair “esoJ ad avliS”.
+
+void Insere(char[] p, ref int t, char f)
 {
     p[t] = f;
     t = t + 1;
