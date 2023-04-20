@@ -1,4 +1,4 @@
-//Faça um programa que converta um número inteiro da base decimal para a base binária.
+//08) Faça um programa que converta um número inteiro da base decimal para a base binária.
 
 const int MAX = 20;
 
